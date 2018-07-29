@@ -6179,13 +6179,13 @@
     "en": "\"By starting this trial, you agree that it is subject to these\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"terms and conditions\"",
     "cn": "\"如果开始试用, 则认为您同意这些服务\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"条款和条件\""
   },
-  {
+ {
     "path": "/optimize/bundles/apm.bundle.js",
     "en": "Looks like you don't have any services with APM installed. Let's add some!",
     "cn": "看起来您没有安装APM的任何服务。 让我们加一些吧！"
   },
   {
-    "path": "/optimize\bundles/apm.bundle.js",
+    "path": "/optimize/bundles/apm.bundle.js",
     "en": "Services",
     "cn": "服务"
   },
@@ -6301,7 +6301,22 @@
   },
   {
     "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
-    "en": "for advanced usage.",
+    "en": "See [the documentation]",
+    "cn": "查看[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Looking for the 32-bit packages?",
+    "cn": "寻找32位软件包？"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "See [the documentation]",
+    "cn": "见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "for advanced usage",
     "cn": "适用于高级用法。"
   },
   {
@@ -6368,6 +6383,151 @@
     "path": "/src/ui/public/partials/saved_object_finder.html",
     "en": "Filter...",
     "cn": "搜索中..."
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Download the APM Server Windows zip file from the [Download page]",
+    "cn": "从[下载页面]下载APM Server Windows zip文件"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Note: If script execution is disabled on your system, you need to set the execution policy for the current session",
+    "cn": "注意：如果在系统上禁用了脚本执行，则需要为当前会话设置执行策略"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "to allow the script to run. For example",
+    "cn": "允许脚本运行，例如"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Enable experimental frontend support in the APM server",
+    "cn": "在APM服务器中启用实验性前端支持"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for JavaScript as a dependency to your application",
+    "cn": "安装APM代理JavaScript作为应用程序的依赖项"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The JS agent is currently in Beta and not meant for production use.",
+    "cn": "警告：JS代理目前处于测试阶段，不适合生产使用。"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application.",
+    "cn": "代理是在应用程序内部运行的库。"
+  },
+  {
+    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Please refer to [the documentation]",
+    "cn": "请参考[文档]"
   },
   {
     "path": ".bundle.js",
