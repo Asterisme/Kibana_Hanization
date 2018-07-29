@@ -6180,6 +6180,196 @@
     "cn": "\"如果开始试用, 则认为您同意这些服务\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"条款和条件\""
   },
   {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Looks like you don't have any services with APM installed. Let's add some!",
+    "cn": "看起来您没有安装APM的任何服务。 让我们加一些吧！"
+  },
+  {
+    "path": "/optimize\bundles/apm.bundle.js",
+    "en": "Services",
+    "cn": "服务"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Setup Instructions",
+    "cn": "设置说明"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "It allows you to monitor the performance of thousands of applications in real time.",
+    "cn": "它允许您实时监控数千个应用程序的性能。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "Application Performance Monitoring (APM) collects in-depth",
+    "cn": "应用程序性能监视（APM）深入收集"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "[Learn more]",
+    "cn": "[了解更多]"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "description:\"APM feedback\"",
+    "cn": "description:\"应用程序性能检测反馈\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"APM\".",
+    "cn": "title:\"应用程序性能检测\"."
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "key:\"APM feedback\"",
+    "cn": "key:\"应用程序性能检测反馈\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "performance metrics and errors from inside your application.",
+    "cn": "应用程序内部的性能指标和错误。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Download and unpack APM Server",
+    "cn": "下载并解压缩APM Server"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "APM Server ships with preconfigured dashboards.",
+    "cn": "APM Server附带预配置的仪表板。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "The server processes and stores application performance metrics in Elasticsearch.",
+    "cn": "服务器在Elasticsearch中处理和存储应用程序性能指标。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "If you're using an X-Pack secured version of Elastic Stack, you must specify",
+    "cn": "如果您使用的是Xlastic Pack安全版Elastic Stack，则必须指定"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "credentials in the `apm-server.yml` config file.",
+    "cn": "apm-server.yml`配置文件中的凭据。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "The server processes and stores application performance metrics in Elasticsearch.",
+    "cn": "服务器在Elasticsearch中处理和存储应用程序性能指标。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for Node.js as a dependency to your application.",
+    "cn": "将Node.js的APM代理安装为应用程序的依赖项。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application process.",
+    "cn": "代理是在应用程序进程内运行的库。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM services are created programmatically based on the `serviceName`.",
+    "cn": "APM服务是基于`serviceName`以编程方式创建的。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "This agent supports Express, Koa, hapi, and custom Node.js.",
+    "cn": "此代理支持Express，Koa，hapi和自定义Node.js。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for Python as a dependency.",
+    "cn": "安装适用于Python的APM代理作为依赖项。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application process.",
+    "cn": "代理是在应用程序进程内运行的库。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM services are created programmatically based on the `SERVICE_NAME`.",
+    "cn": "APM服务是基于“SERVICE_NAME”以编程方式创建的。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "See the [documentation]",
+    "cn": "查看[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "for advanced usage.",
+    "cn": "适用于高级用法。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Add the agent to your Gemfile.",
+    "cn": "将代理添加到Gemfile。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM is automatically started when your app boots.",
+    "cn": "应用程序启动时会自动启动APM。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Configure the agent, by creating the config file `config/elastic_apm.yml`",
+    "cn": "通过创建配置文件`config / elastic_apm.yml`来配置代理"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "including how to use with",
+    "cn": "包括如何使用"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/home/components/tutorial/__snapshots__/footer.test.js.snap",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/home/components/tutorial/footer.js",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "Launch APM",
+    "cn": "启动 APM"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/optimize/bundles/graph.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/src/ui/public/partials/paginated_selectable_list.html",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/src/ui/public/partials/saved_object_finder.html",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
     "path": ".bundle.js",
     "en": "",
     "cn": ""
