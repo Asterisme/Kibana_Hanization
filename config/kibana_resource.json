@@ -6481,53 +6481,88 @@
   },
   {
     "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
-    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
     "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
   },
   {
     "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
-    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
     "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
   },
   {
     "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
-    "en": "From the PowerShell prompt, run the following commands to install Filebeat as a Windows service.",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
     "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
     "en": "Note: If script execution is disabled on your system, you need to set the execution policy for the current session",
     "cn": "注意：如果在系统上禁用了脚本执行，则需要为当前会话设置执行策略"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
     "en": "to allow the script to run. For example",
     "cn": "允许脚本运行，例如"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
     "en": "Enable experimental frontend support in the APM server",
     "cn": "在APM服务器中启用实验性前端支持"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
     "en": "Install the APM agent for JavaScript as a dependency to your application",
     "cn": "安装APM代理JavaScript作为应用程序的依赖项"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
     "en": "Warning: The JS agent is currently in Beta and not meant for production use.",
     "cn": "警告：JS代理目前处于测试阶段，不适合生产使用。"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
     "en": "Agents are libraries that run inside of your application.",
     "cn": "代理是在应用程序内部运行的库。"
   },
   {
-    "path": "/home/ubuntu/kibana-6.3.2-linux-x86_64/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
     "en": "Please refer to [the documentation]",
     "cn": "请参考[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Looking for the 32-bit packages? See the [Download page]",
+    "cn": "寻找32位软件包？ 见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Looking for the 32-bit packages? See the [Download page]",
+    "cn": "寻找32位软件包？ 见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The Ruby agent is currently in Beta and not meant for production use.",
+    "cn": "警告：Ruby代理目前处于测试阶段，不适合生产使用。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "for configuration options and advanced usage.",
+    "cn": "用于配置选项和高级用法。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Rack or compatible framework (like Sinatra). Include the middleware in your app and start the agent.",
+    "cn": "机架或兼容框架（如Sinatra）。 在您的应用中包含中间件并启动代理。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Create a config file",
+    "cn": "创建配置文件"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The Rack agent is currently in Beta and not meant for production use.",
+    "cn": "警告：Rack代理目前处于测试阶段，不适合生产使用。"
   },
   {
     "path": ".bundle.js",
