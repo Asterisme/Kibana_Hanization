@@ -6179,6 +6179,391 @@
     "en": "\"By starting this trial, you agree that it is subject to these\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"terms and conditions\"",
     "cn": "\"如果开始试用, 则认为您同意这些服务\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"条款和条件\""
   },
+   {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Looks like you don't have any services with APM installed. Let's add some!",
+    "cn": "看起来您没有安装APM的任何服务。 让我们加一些吧！"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Services",
+    "cn": "服务"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Setup Instructions",
+    "cn": "设置说明"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "It allows you to monitor the performance of thousands of applications in real time.",
+    "cn": "它允许您实时监控数千个应用程序的性能。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "Application Performance Monitoring (APM) collects in-depth",
+    "cn": "应用程序性能监视（APM）深入收集"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "[Learn more]",
+    "cn": "[了解更多]"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "description:\"APM feedback\"",
+    "cn": "description:\"应用程序性能检测反馈\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"APM\".",
+    "cn": "title:\"应用程序性能检测\"."
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "key:\"APM feedback\"",
+    "cn": "key:\"应用程序性能检测反馈\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "performance metrics and errors from inside your application.",
+    "cn": "应用程序内部的性能指标和错误。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Download and unpack APM Server",
+    "cn": "下载并解压缩APM Server"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "APM Server ships with preconfigured dashboards.",
+    "cn": "APM Server附带预配置的仪表板。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "The server processes and stores application performance metrics in Elasticsearch.",
+    "cn": "服务器在Elasticsearch中处理和存储应用程序性能指标。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "If you're using an X-Pack secured version of Elastic Stack, you must specify",
+    "cn": "如果您使用的是Xlastic Pack安全版Elastic Stack，则必须指定"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "credentials in the `apm-server.yml` config file.",
+    "cn": "apm-server.yml`配置文件中的凭据。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "The server processes and stores application performance metrics in Elasticsearch.",
+    "cn": "服务器在Elasticsearch中处理和存储应用程序性能指标。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for Node.js as a dependency to your application.",
+    "cn": "将Node.js的APM代理安装为应用程序的依赖项。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application process.",
+    "cn": "代理是在应用程序进程内运行的库。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM services are created programmatically based on the `serviceName`.",
+    "cn": "APM服务是基于`serviceName`以编程方式创建的。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "This agent supports Express, Koa, hapi, and custom Node.js.",
+    "cn": "此代理支持Express，Koa，hapi和自定义Node.js。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for Python as a dependency.",
+    "cn": "安装适用于Python的APM代理作为依赖项。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application process.",
+    "cn": "代理是在应用程序进程内运行的库。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM services are created programmatically based on the `SERVICE_NAME`.",
+    "cn": "APM服务是基于“SERVICE_NAME”以编程方式创建的。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "See the [documentation]",
+    "cn": "查看[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "See [the documentation]",
+    "cn": "查看[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Looking for the 32-bit packages?",
+    "cn": "寻找32位软件包？"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "See [the documentation]",
+    "cn": "见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "for advanced usage",
+    "cn": "适用于高级用法。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Add the agent to your Gemfile.",
+    "cn": "将代理添加到Gemfile。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "APM is automatically started when your app boots.",
+    "cn": "应用程序启动时会自动启动APM。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Configure the agent, by creating the config file `config/elastic_apm.yml`",
+    "cn": "通过创建配置文件`config / elastic_apm.yml`来配置代理"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "including how to use with",
+    "cn": "包括如何使用"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/home/components/tutorial/__snapshots__/footer.test.js.snap",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/home/components/tutorial/footer.js",
+    "en": "When all steps are complete, you're ready to explore your data.",
+    "cn": "完成所有步骤后，您就可以开始探索数据了。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/index.js",
+    "en": "Launch APM",
+    "cn": "启动 APM"
+  },
+  {
+    "path": "/optimize/bundles/apm.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/optimize/bundles/graph.bundle.js",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/src/ui/public/partials/paginated_selectable_list.html",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/src/ui/public/partials/saved_object_finder.html",
+    "en": "Filter...",
+    "cn": "搜索中..."
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Download the APM Server Windows zip file from the [Download page]",
+    "cn": "从[下载页面]下载APM Server Windows zip文件"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Extract the contents of the zip file into",
+    "cn": "将zip文件的内容解压缩到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Rename the",
+    "cn": "重命名"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "directory to",
+    "cn": "目录到"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Open a PowerShell prompt as an Administrator (right-click the PowerShell icon and select",
+    "cn": "以管理员身份打开PowerShell提示符（右键单击PowerShell图标并选择"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Run As Administrator",
+    "cn": "以管理员身份运行"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "If you are running Windows XP, you might need to download and install PowerShell.",
+    "cn": "如果您运行的是Windows XP，则可能需要下载并安装PowerShell。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/metricbeat_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "From the PowerShell prompt, run the following commands to install APM Server as a Windows service:",
+    "cn": "在PowerShell提示符下，运行以下命令将Filebeat安装为Windows服务。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Note: If script execution is disabled on your system, you need to set the execution policy for the current session",
+    "cn": "注意：如果在系统上禁用了脚本执行，则需要为当前会话设置执行策略"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "to allow the script to run. For example",
+    "cn": "允许脚本运行，例如"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Enable experimental frontend support in the APM server",
+    "cn": "在APM服务器中启用实验性前端支持"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Install the APM agent for JavaScript as a dependency to your application",
+    "cn": "安装APM代理JavaScript作为应用程序的依赖项"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The JS agent is currently in Beta and not meant for production use.",
+    "cn": "警告：JS代理目前处于测试阶段，不适合生产使用。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Agents are libraries that run inside of your application.",
+    "cn": "代理是在应用程序内部运行的库。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Please refer to [the documentation]",
+    "cn": "请参考[文档]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/filebeat_instructions.js",
+    "en": "Looking for the 32-bit packages? See the [Download page]",
+    "cn": "寻找32位软件包？ 见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_server_instructions.js",
+    "en": "Looking for the 32-bit packages? See the [Download page]",
+    "cn": "寻找32位软件包？ 见[下载页面]"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The Ruby agent is currently in Beta and not meant for production use.",
+    "cn": "警告：Ruby代理目前处于测试阶段，不适合生产使用。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "for configuration options and advanced usage.",
+    "cn": "用于配置选项和高级用法。    "
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Rack or compatible framework (like Sinatra). Include the middleware in your app and start the agent.",
+    "cn": "机架或兼容框架（如Sinatra）。 在您的应用中包含中间件并启动代理。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Create a config file",
+    "cn": "创建配置文件    "
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/apm_client_instructions.js",
+    "en": "Warning: The Rack agent is currently in Beta and not meant for production use.",
+    "cn": "警告：Rack代理目前处于测试阶段，不适合生产使用。"
+  },
   {
     "path": ".bundle.js",
     "en": "",
